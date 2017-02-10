@@ -6,6 +6,7 @@
 --endregion
 
 function OnClick()
-print('aaa')
+print('aaab')
 end
 OnClick()
+print(bbbb)
